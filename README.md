@@ -41,6 +41,7 @@ Then we calculate some extras for base items:
 - If it has gems on it, add the cost of all the gems from bazaar.
 - If it has power scrolls, add the cost of the power scrolls from BIN.
 - If it has Gemstone chambers, add the cost of each gemstone chamber from BIN.
+- If it has "Farming for Dummies" book added to it, add the price of that book from the BIN to the value.
 
 For pets:
 - Calculate the price of the pet from BIN (for that tier).
